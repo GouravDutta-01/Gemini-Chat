@@ -36,7 +36,7 @@
       - Create a new project → "APIs & Services" → "Credentials" → Create **OAuth client ID**  
       - Add `http://localhost:3000/auth/google/callback` as an **authorized redirect URI**  
       - Copy the **Client ID** & **Client Secret**  
-    - Get **Gemini API Key** from [Google AI Studio]()
+    - Get **Gemini API Key** from [Google AI Studio](https://aistudio.google.com/apikey)
 
 5. **Install backend dependencies**  
     ```bash
@@ -52,3 +52,6 @@
 ---
 
 Now, visit **[http://localhost:3000](http://localhost:3000)** to use the application.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your proposed changes.
